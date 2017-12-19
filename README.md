@@ -1,4 +1,1 @@
-# testIT
-### test markdown
-* li
-* li
+# Разобраться с основами git и git-flow
